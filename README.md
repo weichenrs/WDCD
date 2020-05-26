@@ -7,5 +7,5 @@ Cloud cover is a common and inevitable phenomenon that often hinders the usabili
 ## Code
 Coming soon!
 ## Dataset
-
+The block-level RS image dataset for weakly supervised cloud detection can be downloaded via [BaiduYun(Access Code:8888)](https://pan.baidu.com/s/16mD81UnGzjUBD-haDQfzIQ).
 
