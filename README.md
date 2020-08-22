@@ -9,3 +9,7 @@ Cloud cover is a common and inevitable phenomenon that often hinders the usabili
 
 ## Dataset
 The block-level RS image dataset for weakly supervised cloud detection can be downloaded via [The project website](https://skyearth.org/publication/project/WDCD/) or [BaiduNetDisk(Access Code:hr1l)](https://pan.baidu.com/s/13i3jMrMPBELc-w3tzhXbpQ).
+
+## Citation
+If you use the cloud dataset in your research, please cite the following reference:
+**Paper: Li, Y., Chen W., Zhang Y., Tao C., Xiao R., and Tan Y., Accurate cloud detection in high-resolution remote sensing imagery by weakly supervised deep learning, Remote Sensing of Environment, (2020), [doi.org/10.1016/j.rse.2020.112045](https://doi.org/10.1016/j.rse.2020.112045).**
