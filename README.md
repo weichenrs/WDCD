@@ -12,4 +12,5 @@ The block-level RS image dataset for weakly supervised cloud detection can be do
 
 ## Citation
 If you use the cloud dataset in your research, please cite the following reference:
-**Paper: Li, Y., Chen W., Zhang Y., Tao C., Xiao R., and Tan Y., Accurate cloud detection in high-resolution remote sensing imagery by weakly supervised deep learning, Remote Sensing of Environment, (2020), [doi.org/10.1016/j.rse.2020.112045](https://doi.org/10.1016/j.rse.2020.112045).**
+
+**Li, Y., Chen W., Zhang Y., Tao C., Xiao R., and Tan Y., Accurate cloud detection in high-resolution remote sensing imagery by weakly supervised deep learning, Remote Sensing of Environment, (2020), [doi.org/10.1016/j.rse.2020.112045](https://doi.org/10.1016/j.rse.2020.112045).**
